@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts loan default risk and
 visualizes results through an interactive Streamlit dashboard.
 
 ## Live Demo
-[View the live dashboard](your-streamlit-url-here)
+[View the live dashboard]([your-streamlit-url-here](https://credit-risk-prediction-dashboard-dj8ll9ezjhnc4zse8jn6nr.streamlit.app/))
 
 ## Overview
 This project trains and compares two classification models on the 
